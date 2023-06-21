@@ -3,6 +3,7 @@ layout: post
 title: LaTeX in Markdown
 description: >
   Note: This is just a test post. Will be up and running asap!
+math: true
 ---
 
 $$\LaTeX$$ is an amazing language for typesetting beautiful looking documents. It's especially  useful if you deal with a lot of math. Here's an example:
