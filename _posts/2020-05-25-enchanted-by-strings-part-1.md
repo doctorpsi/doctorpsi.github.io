@@ -3,6 +3,7 @@ layout: post
 title: Enchanted by Strings | Part 1
 description: >
     Diabolically stolen from the classic Plischke & Bergensen
+math: true
 ---
 
 > **TL;DR**: This series consists of my personal notes on a beautiful chapter on *polymers* and *membranes* that I found amusing. The contents of this blog are directly taken from here. Please refer to the original text of *Equilibrium Statistical Physics* by Plischke & Bergersen for more details. If you are afraid of math and scary looking equations, then this post and the others are not for you. The material covered is pretty elementary though, suitable for an ambitious upper undergraduate or a graduate (presumably in Physics).
