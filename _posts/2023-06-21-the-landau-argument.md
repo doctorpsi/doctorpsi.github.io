@@ -20,10 +20,12 @@ for any nonzero temperature $T$ in the thermodynamic limit, $N \rightarrow \inft
 ## Exercise
 Let us suppose that the interaction is long range, so that the coupling constant $J_{ij}$
 between the $i$ spin and the $j$ spin decays as $|i - j|^{–a}$, where $a$ is a positive constant.
-Show that Landau’s argument is not valid if $a < 2$. [*Peliti, Statistical Mechanics in a Nutshell*]
+Show that Landau’s argument is not valid if $a < 2$. (see *Peliti, Statistical Mechanics in a Nutshell*, 2011)
 
-> A straightforward solution to this problem can be found in Tridib Sahu's Advanced Statistical Mechanics lectures.
-These lectures are highly recommended to any graduate student who needs brushing up on his Statistical Mechanics.
+> A straightforward solution to this problem can be found in Lecture 21 of [TIFR Graduate School course on
+Advanced Statistical Physics: February - July, 2021](https://theory.tifr.res.in/~tridib/ASPCourse.html) by
+Tridib Sadhu. These lectures are highly recommended to any graduate student in dire need of brushing up on their
+Statistical Mechanics.
 
 <!-- {% include embed/youtube.html id='mMAVPah6iIw?feature=shared&t=1420' %} Timestamps not working! -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMAVPah6iIw?si=Z8TSe3KtwVhAPTXo&amp;start=1422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
