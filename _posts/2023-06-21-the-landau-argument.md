@@ -25,7 +25,8 @@ Show that Landau’s argument is not valid if $a < 2$. [*Peliti, Statistical Mec
 > A straightforward solution to this problem can be found in Tridib Sahu's Advanced Statistical Mechanics lectures.
 These lectures are highly recommended to any graduate student who needs brushing up on his Statistical Mechanics.
 
-{% include embed/youtube.html id='mMAVPah6iIw?feature=shared&t=1420' %}
+<!-- {% include embed/youtube.html id='mMAVPah6iIw?feature=shared&t=1420' %} Timestamps not working! -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMAVPah6iIw?si=Z8TSe3KtwVhAPTXo&amp;start=1422" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 P.S. The above exercise was in fact published as a short paper (less than 2 pages!) by David Thouless way back
 in 1969. This was highly instrumental in the development of the famous theory of Kosterlitz-Thouless transition
