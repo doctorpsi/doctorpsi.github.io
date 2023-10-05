@@ -11,7 +11,7 @@ one where all the spins are pointing upwards, and the other where spins are poin
 gradually increasing the temperature to $T > 0$. Will the initial state remain stable against thermal
 fluctuations?
 
-Let us now flip a few adjacent spins. This will creates a excited state with an excess energy of $2 J$.
+Let us now flip a few adjacent spins. This will create an excited state with an excess energy of $2 J$.
 Since we can arrange each $+/-$ spin boundary in $N$ different ways, the number of microstates is proportional
 to $ln N$. As soon as $k_BT ln N > 2 J$, flipping a large number of spins leads to a free energy advantage.
 The system will keep flipping spins to minimize free energy and thus won't remain stable. This will be true
