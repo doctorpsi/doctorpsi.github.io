@@ -24,8 +24,8 @@ Show that Landau’s argument is not valid if $a < 2$. (see *Peliti, Statistical
 
 > A straightforward solution to this problem can be found in Lecture 21 of [TIFR Graduate School course on
 Advanced Statistical Physics: February - July, 2021](https://theory.tifr.res.in/~tridib/ASPCourse.html) by
-Tridib Sadhu. These lectures are highly recommended to any graduate student in dire need of brushing up on their
-Statistical Mechanics.
+Tridib Sadhu. These lectures are highly recommended to any graduate student wanting to brush up on their
+Statistical Mechanics. Be warned that some of the lectures are quite advanced, even for me!
 
 {% include embed/youtube.html id='mMAVPah6iIw?start=1422&end=2009' %}
 
