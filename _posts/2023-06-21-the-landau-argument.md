@@ -27,7 +27,7 @@ Advanced Statistical Physics: February - July, 2021](https://theory.tifr.res.in/
 Tridib Sadhu. These lectures are highly recommended to any graduate student in dire need of brushing up on their
 Statistical Mechanics.
 
-{% include embed/youtube.html id='mMAVPah6iIw?start=1422' %}
+{% include embed/youtube.html id='mMAVPah6iIw?start=1422&end=2009' %}
 
 P.S. The above exercise was in fact published as a short paper (less than 2 pages!) by David Thouless way back
 in 1969. This was highly instrumental in the development of the famous theory of Kosterlitz-Thouless transition
