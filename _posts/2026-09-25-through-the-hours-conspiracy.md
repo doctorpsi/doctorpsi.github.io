@@ -6,8 +6,12 @@ categories: [Poetry]
 tags: [poetry, time]
 ---
 
-![Apollo with the Hours](/assets/img/posts/apollo-with-the-hours.jpg){: width="280" .right .normal .shadow .rounded-10 }
-_<em>Apollo with the Hours</em>, oil on canvas by Georg Friedrich Kersting, c. 1822, Public Domain_
+<figure class="right text-center" style="max-width: 210px;">
+  <img src="/assets/img/posts/apollo-with-the-hours.jpg" class="rounded-10 shadow w-100" alt="Apollo with the Hours">
+  <figcaption class="mt-2 text-muted" style="font-size: 0.75rem; line-height: 1.35;">
+    <em>Apollo with the Hours</em>, oil on canvas by Georg Friedrich Kersting, c. 1822, Public Domain
+  </figcaption>
+</figure>
 
 Time is constantly beating fast  
 To beat me, to the last—  
