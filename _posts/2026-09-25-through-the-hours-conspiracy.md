@@ -6,12 +6,8 @@ categories: [Poetry]
 tags: [poetry, time]
 ---
 
-<figure class="right text-center" style="max-width: 210px;">
-  <img src="/assets/img/posts/apollo-with-the-hours.jpg" class="rounded-10 shadow w-100" alt="Apollo with the Hours">
-  <figcaption class="mt-2 text-muted" style="font-size: 0.75rem; line-height: 1.35;">
-    <em>Apollo with the Hours</em>, oil on canvas by Georg Friedrich Kersting, c. 1822, Public Domain
-  </figcaption>
-</figure>
+<div class="d-flex align-items-start gap-4 gap-md-5 my-2" style="max-width: 540px;">
+  <div markdown="1">
 
 Time is constantly beating fast  
 To beat me, to the last—  
@@ -29,6 +25,15 @@ And snatch away the glee
 Through the Hours’ Conspiracy!  
 
 &mdash; *The Outsider* [^footnote]
+
+  </div>
+  <figure class="text-center" style="max-width: 200px; flex-shrink: 0;">
+    <img src="/assets/img/posts/apollo-with-the-hours.jpg" class="rounded-10 shadow w-100" alt="Apollo with the Hours">
+    <figcaption class="mt-2 text-muted" style="font-size: 0.75rem; line-height: 1.35;">
+      <em>Apollo with the Hours</em>, oil on canvas by Georg Friedrich Kersting, c. 1822, Public Domain
+    </figcaption>
+  </figure>
+</div>
 
 [^horae]: Referring to the [Horae](https://www.worldhistory.org/Horae/), the Greek goddesses of time and the seasons.
 [^footnote]: Written on February 16, 2010 in high school. Re-edited.  
