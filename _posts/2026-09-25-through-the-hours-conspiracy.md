@@ -7,20 +7,20 @@ tags: [poetry, time]
 ---
 
 ![Apollo with the Hours, oil on canvas by Georg Friedrich Kersting (c. 1822, Public Domain)](/assets/img/posts/apollo-with-the-hours.jpg){: width="280" .right .normal .shadow .rounded-10 }
-*Time is constantly beating fast*  
-*To beat me, to the last—*  
-*The Hours’* [^horae] *conspiring against me*  
-*To keep me, oh, aghast!*  
+Time is constantly beating fast  
+To beat me, to the last—  
+The Hours’ [^horae] conspiring against me  
+To keep me, oh, aghast!  
 
-*Lo, here comes the illness*  
-*To reduce me to nothingness—*  
-*The Hours’ conspiring against me*  
-*To betray my willingness!*  
+Lo, here comes the illness  
+To reduce me to nothingness—  
+The Hours’ conspiring against me  
+To betray my willingness!  
 
-*Yet Time can never mar me,*  
-*And snatch away the glee*  
-*‘Cause God guides me, oh, see—*  
-*Through the Hours’ Conspiracy!*  
+Yet Time can never mar me,  
+And snatch away the glee  
+‘Cause God guides me, oh, see—  
+Through the Hours’ Conspiracy!  
 
 &mdash; *The Outsider* [^footnote]
 
