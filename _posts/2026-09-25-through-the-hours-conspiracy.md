@@ -6,7 +6,7 @@ categories: [Poetry]
 tags: [poetry, time]
 ---
 
-<div class="d-flex align-items-start gap-4 gap-md-5 my-2" style="max-width: 540px;">
+<div class="d-flex align-items-start my-2" style="column-gap: 5.5rem; max-width: 620px;">
   <div markdown="1">
 
 Time is constantly beating fast  
