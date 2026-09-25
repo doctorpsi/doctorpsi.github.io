@@ -5,7 +5,7 @@
 
 Source repository for my personal blog and notes: [**doctorpsi.github.io**](https://doctorpsi.github.io)
 
-> *"A half-baked theoretical physicist who used to indulge in art."*
+> *"A half-baked physicist who used to indulge in art."*
 
 ---
 
