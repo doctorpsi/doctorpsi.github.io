@@ -31,12 +31,10 @@ between the $i$ spin and the $j$ spin decays as $|i - j|^{–a}$, where $a$ is a
 Show that Landau’s argument is not valid if $a < 2$. (Peliti, 2011) [^footnote5]
 
 
-> Try solving on your own first. If you need help, you can have a look at Lecture 21 of Tridib Sadhu's
-[TIFR Graduate School course on Advanced Statistical Physics: February - July, 2021](https://theory.tifr.res.in/~tridib/ASPCourse.html)
-below. These lectures are highly recommended to any graduate student wanting to brush up on their
-Statistical Mechanics. Be warned that some of the lectures are quite advanced, even for yours truly!
-
-{% include embed/youtube.html id='mMAVPah6iIw?start=1422&end=2009' %}
+> Try solving on your own first. If you need help, have a look at [Lecture 21 (from 23:42)](https://youtu.be/mMAVPah6iIw?t=1422) of Tridib Sadhu's
+[Advanced Statistical Physics course](https://theory.tifr.res.in/~tridib/ASPCourse.html) at TIFR.
+The lectures are highly recommended to any graduate student wanting to brush up on
+Statistical Mechanics—though be warned, some are quite advanced, even for yours truly!
 
 P.S. The above exercise is undoubtedly adapted from Thouless's [1969 paper](https://journals.aps.org/pr/abstract/
 10.1103/PhysRev.187.732), which played an important role in the development of the
