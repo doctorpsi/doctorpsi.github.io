@@ -1,45 +1,47 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# Doctor Psi
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+[![Website](https://img.shields.io/badge/website-doctorpsi.github.io-blue)](https://doctorpsi.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+Source repository for my personal blog and notes: [**doctorpsi.github.io**](https://doctorpsi.github.io)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+> *"A budding theoretical physicist who also indulges in art."*
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+---
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## Local Development
 
-## Prerequisites
+### Prerequisites
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+Ensure you have [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/) installed.
 
-## Installation
+### Setup & Run
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/doctorpsi/doctorpsi.github.io.git
+   cd doctorpsi.github.io
+   ```
 
-Then clone it to your local machine and run:
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
 
-```
-$ bundle
-```
+3. Start the local development server:
+   ```bash
+   bundle exec jekyll serve
+   ```
 
-## Usage
+4. Open your browser and navigate to `http://localhost:4000`.
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+---
+
+## Built With
+
+- [Jekyll](https://jekyllrb.com/) - Static site generator
+- [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - Responsive Jekyll theme
 
 ## License
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+This project is licensed under the [MIT License](LICENSE).
