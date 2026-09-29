@@ -1,0 +1,88 @@
+.ising-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.ising-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ising-btn {
+  font: inherit;
+  font-size: 12px;
+  padding: 3px 12px;
+  border-radius: 6px;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.ising-btn:hover {
+  border-color: rgba(128, 128, 128, 0.8);
+}
+
+.ising-label {
+  font-size: 12px;
+  opacity: 0.75;
+  white-space: nowrap;
+}
+
+.ising-speed {
+  width: 120px;
+  accent-color: currentColor;
+  cursor: pointer;
+}
+
+.ising-speed::-webkit-slider-runnable-track {
+  height: 3px;
+  border-radius: 2px;
+  background: currentColor;
+  opacity: 0.4;
+}
+
+.ising-speed::-webkit-slider-thumb {
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  margin-top: -4.5px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.9;
+}
+
+.ising-speed::-moz-range-track {
+  height: 3px;
+  border-radius: 2px;
+  background: currentColor;
+  opacity: 0.4;
+}
+
+.ising-speed::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  border: none;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: 0.9;
+}
+
+.ising-wrap canvas {
+  display: block;
+  border-radius: 6px;
+  image-rendering: pixelated;
+}
+
+.ising-readout {
+  font-family: var(--bs-font-monospace, ui-monospace, SFMono-Regular, monospace);
+  font-size: 12px;
+  opacity: 0.75;
+  text-align: center;
+}
