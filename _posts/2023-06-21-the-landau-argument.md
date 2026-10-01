@@ -3,6 +3,7 @@ layout: post
 title: The Landau Argument
 date: 2023-06-21 19:38 +0530
 math: true
+tags: [statistical-mechanics, spins, ising-model, phase-transitions]
 ---
 
 There is a famous argument, usually attributed to Landau [^footnote1], against the existence of long-range order
