@@ -14,6 +14,18 @@
 
 /* append your custom style below */
 
+/* Rouge tags namespace-qualified names (std::vector, std::ofstream) as plain
+   Name, so they lose the type coloring that bare classes like `pos` get.
+   Color any name that follows a `::` operator the same way. */
+:root[data-bs-theme='light'] .highlight .o + .n,
+:root:not([data-bs-theme]) .highlight .o + .n {
+  color: #953800;
+}
+
+:root[data-bs-theme='dark'] .highlight .o + .n {
+  color: #f4bf75;
+}
+
 .footnotes {
   font-size: 0.85rem;
   color: var(--text-muted-color);
