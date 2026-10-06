@@ -40,3 +40,29 @@
     padding: 0;
   }
 }
+
+/* Responsive sketches: landscape fills width, portrait capped comfortably */
+.sketch-img {
+  max-width: 100%;
+  max-height: 320px;
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 1.25rem auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  @media (min-width: 768px) {
+    max-width: 460px;
+    max-height: 360px;
+  }
+}
+
+/* Gallery display in Dark Mode: ease paper glare and frame naturally */
+:root[data-bs-theme='dark'] .sketch-img,
+html[data-mode='dark'] .sketch-img {
+  filter: brightness(0.92) contrast(1.04);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
